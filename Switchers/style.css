@@ -1,0 +1,55 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:#a4cca5;
+}
+h1{
+    text-align: center;
+}
+
+#switcherTypes{
+    text-align: center;
+}
+.btn{
+    display: block;
+    margin:auto;
+    margin-top: 50px;
+}
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 3px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.button:hover{
+    filter: brightness(30%);
+}
+#img1{
+    background-image:linear-gradient(wheat, pink) ;
+   }
+#img2{
+    background-image: linear-gradient(rgb(161, 71, 161), rgb(66, 66, 134));
+    
+}
+#img3{
+    background-image: linear-gradient(white, black);
+}#img4{
+    background-image: linear-gradient(cyan, yellowgreen);
+}#img5{
+    background-image: linear-gradient(yellowgreen, coral);
+}#img6{
+    background-image: linear-gradient(crimson, violet);
+}#img7{
+    background-image: linear-gradient(yellow, crimson);
+}
+
+.button1 {
+  
+    border: solid black 3px;
+    display: inline-block;
+    padding: 20px;
+}
+.button1:hover{
+    background-color: rgba(146, 142, 142, 0.836);
+}
