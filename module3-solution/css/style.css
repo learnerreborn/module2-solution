@@ -1,0 +1,39 @@
+body{
+    background-color: aliceblue;
+    font-size: 25px;
+    box-sizing: border-box;
+  
+}
+@media(min-width:900px){
+#navbarSupportedContent{
+  visibility: hidden;
+}
+}
+nav{
+    background-color: rgba(156, 156, 216, 0.938);
+}
+#navbarSupportedContent{
+  background-color: rgb(200, 130, 137);
+ 
+}
+#brand_name{
+    font-size:30px;
+}
+.box{
+  
+    box-sizing: border-box;
+    border:1px solid black;
+    background-color: grey;
+   
+}
+
+.my-container{
+    margin-top:150px;
+   
+  
+}
+span{
+    font-weight: bold;
+   
+}
+
